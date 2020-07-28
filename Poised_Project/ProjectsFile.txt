@@ -1,0 +1,28 @@
+1
+Tyson Mansion
+House
+12 Main Road, Sandton
+98546
+15000000
+10000000
+12 May 2034
+Not Finalized
+In Progress
+Customer
+Mike
+Tyson
+5551234560
+Miketyson@mail.com
+12 Punch Lane, Ohio
+Architect
+Ted
+Mosby
+5557894560
+Tedmosby@mail.com
+23 New York Road, Manhattan
+Contractor
+Ben
+Kingsley
+5559637410
+Benkingsley@mail.com
+23 Tea Road, London
